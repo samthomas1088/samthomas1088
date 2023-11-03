@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **samthomas1088/samthomas1088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
